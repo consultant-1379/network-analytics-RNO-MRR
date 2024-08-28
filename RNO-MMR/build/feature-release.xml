@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<feature>
+	<product-id>CNA 403 3683</product-id>
+	<feature-name>MRR</feature-name>
+	<release>20.1</release>
+	<system-area>GSM/GSM Optimization Reports</system-area>
+    <datasource-guid>742a35e8-dc52-4121-b895-f92bd25185de</datasource-guid> 
+    <ericsson-library>true</ericsson-library>
+</feature>
+
